@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="decode_compressed_image" type="decode_compressed_image" name="decode_compressed_image" output="screen">
+   
+  </node>
+</launch>
